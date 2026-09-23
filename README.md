@@ -126,3 +126,9 @@
 群1：572216445
 
 群2：912218004
+
+```
+## Learning Notes
+
+This repository is used to study the FryPi project and Git workflow.
+```
